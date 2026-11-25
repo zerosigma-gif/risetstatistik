@@ -1,0 +1,6 @@
+{
+  "name": "RisetStatistik",
+  "description": "Client-side jamovi-inspired statistical analytics dashboard with a transformable spreadsheet table, split-pane charts, and an infinite analytical node canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
